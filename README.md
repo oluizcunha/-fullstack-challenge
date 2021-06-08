@@ -41,9 +41,10 @@ Requerido [DotNetCore](https://dotnet.microsoft.com/download/dotnet/5.0) v5 para
 Backend foi desenvolvido no Visual Studio 2019 Community Edition.
 
 1) Altere a string de conexão com o banco de dados(é recomendado colocar os dados referentes ao sa, para que no update crie todas as tabelas corretamente). Ela fica no arquivo dentro do projeto fullstack-challenge:
-   ```sh
+```sh
 appsettings.json
 ```
+
 2) Sete fullstack-challenge como projeto de inicialização;
 
 
@@ -63,5 +64,3 @@ update-database
 ![Print2](https://user-images.githubusercontent.com/53011340/121126469-34674f00-c7f6-11eb-9f20-0bca2ce9bce1.png)
 
 ![Gif1](https://user-images.githubusercontent.com/53011340/121126480-37623f80-c7f6-11eb-957e-e8030d23e9dc.gif)
-
-
