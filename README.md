@@ -57,3 +57,11 @@ update-database
 4) Por padrão o backend roda no seguinte caminho:
 [localhost:44364](https://localhost:44364/)
 ****
+## Imagens
+![Print1](https://user-images.githubusercontent.com/53011340/121126452-2f0a0480-c7f6-11eb-8d10-dab1d0345ab2.png)
+
+![Print2](https://user-images.githubusercontent.com/53011340/121126469-34674f00-c7f6-11eb-9f20-0bca2ce9bce1.png)
+
+![Gif1](https://user-images.githubusercontent.com/53011340/121126480-37623f80-c7f6-11eb-957e-e8030d23e9dc.gif)
+
+
