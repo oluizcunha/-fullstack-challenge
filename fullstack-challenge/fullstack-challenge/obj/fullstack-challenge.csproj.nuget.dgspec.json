@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luiz\\source\\repos\\fullstack-challenge\\fullstack-challenge\\fullstack-challenge.csproj": {}
+    "D:\\Desktop\\euu\\-fullstack-challenge\\fullstack-challenge\\fullstack-challenge\\fullstack-challenge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luiz\\source\\repos\\fullstack-challenge\\fullstack-challeng.data\\fullstack-challeng.data.csproj": {
+    "D:\\Desktop\\euu\\-fullstack-challenge\\fullstack-challenge\\fullstack-challeng.data\\fullstack-challeng.data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luiz\\source\\repos\\fullstack-challenge\\fullstack-challeng.data\\fullstack-challeng.data.csproj",
+        "projectUniqueName": "D:\\Desktop\\euu\\-fullstack-challenge\\fullstack-challenge\\fullstack-challeng.data\\fullstack-challeng.data.csproj",
         "projectName": "fullstack-challeng.data",
-        "projectPath": "C:\\Users\\luiz\\source\\repos\\fullstack-challenge\\fullstack-challeng.data\\fullstack-challeng.data.csproj",
+        "projectPath": "D:\\Desktop\\euu\\-fullstack-challenge\\fullstack-challenge\\fullstack-challeng.data\\fullstack-challeng.data.csproj",
         "packagesPath": "C:\\Users\\luiz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luiz\\source\\repos\\fullstack-challenge\\fullstack-challeng.data\\obj\\",
+        "outputPath": "D:\\Desktop\\euu\\-fullstack-challenge\\fullstack-challenge\\fullstack-challeng.data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\luiz\\source\\repos\\fullstack-challenge\\fullstack-challenge.domain\\fullstack-challenge.domain.csproj": {
-                "projectPath": "C:\\Users\\luiz\\source\\repos\\fullstack-challenge\\fullstack-challenge.domain\\fullstack-challenge.domain.csproj"
+              "D:\\Desktop\\euu\\-fullstack-challenge\\fullstack-challenge\\fullstack-challenge.domain\\fullstack-challenge.domain.csproj": {
+                "projectPath": "D:\\Desktop\\euu\\-fullstack-challenge\\fullstack-challenge\\fullstack-challenge.domain\\fullstack-challenge.domain.csproj"
               }
             }
           }
@@ -96,14 +96,14 @@
         }
       }
     },
-    "C:\\Users\\luiz\\source\\repos\\fullstack-challenge\\fullstack-challeng.service\\fullstack-challeng.service.csproj": {
+    "D:\\Desktop\\euu\\-fullstack-challenge\\fullstack-challenge\\fullstack-challeng.service\\fullstack-challeng.service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luiz\\source\\repos\\fullstack-challenge\\fullstack-challeng.service\\fullstack-challeng.service.csproj",
+        "projectUniqueName": "D:\\Desktop\\euu\\-fullstack-challenge\\fullstack-challenge\\fullstack-challeng.service\\fullstack-challeng.service.csproj",
         "projectName": "fullstack-challeng.service",
-        "projectPath": "C:\\Users\\luiz\\source\\repos\\fullstack-challenge\\fullstack-challeng.service\\fullstack-challeng.service.csproj",
+        "projectPath": "D:\\Desktop\\euu\\-fullstack-challenge\\fullstack-challenge\\fullstack-challeng.service\\fullstack-challeng.service.csproj",
         "packagesPath": "C:\\Users\\luiz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luiz\\source\\repos\\fullstack-challenge\\fullstack-challeng.service\\obj\\",
+        "outputPath": "D:\\Desktop\\euu\\-fullstack-challenge\\fullstack-challenge\\fullstack-challeng.service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -124,11 +124,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\luiz\\source\\repos\\fullstack-challenge\\fullstack-challeng.data\\fullstack-challeng.data.csproj": {
-                "projectPath": "C:\\Users\\luiz\\source\\repos\\fullstack-challenge\\fullstack-challeng.data\\fullstack-challeng.data.csproj"
+              "D:\\Desktop\\euu\\-fullstack-challenge\\fullstack-challenge\\fullstack-challeng.data\\fullstack-challeng.data.csproj": {
+                "projectPath": "D:\\Desktop\\euu\\-fullstack-challenge\\fullstack-challenge\\fullstack-challeng.data\\fullstack-challeng.data.csproj"
               },
-              "C:\\Users\\luiz\\source\\repos\\fullstack-challenge\\fullstack-challenge.domain\\fullstack-challenge.domain.csproj": {
-                "projectPath": "C:\\Users\\luiz\\source\\repos\\fullstack-challenge\\fullstack-challenge.domain\\fullstack-challenge.domain.csproj"
+              "D:\\Desktop\\euu\\-fullstack-challenge\\fullstack-challenge\\fullstack-challenge.domain\\fullstack-challenge.domain.csproj": {
+                "projectPath": "D:\\Desktop\\euu\\-fullstack-challenge\\fullstack-challenge\\fullstack-challenge.domain\\fullstack-challenge.domain.csproj"
               }
             }
           }
@@ -161,14 +161,14 @@
         }
       }
     },
-    "C:\\Users\\luiz\\source\\repos\\fullstack-challenge\\fullstack-challenge.domain\\fullstack-challenge.domain.csproj": {
+    "D:\\Desktop\\euu\\-fullstack-challenge\\fullstack-challenge\\fullstack-challenge.domain\\fullstack-challenge.domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luiz\\source\\repos\\fullstack-challenge\\fullstack-challenge.domain\\fullstack-challenge.domain.csproj",
+        "projectUniqueName": "D:\\Desktop\\euu\\-fullstack-challenge\\fullstack-challenge\\fullstack-challenge.domain\\fullstack-challenge.domain.csproj",
         "projectName": "fullstack-challenge.domain",
-        "projectPath": "C:\\Users\\luiz\\source\\repos\\fullstack-challenge\\fullstack-challenge.domain\\fullstack-challenge.domain.csproj",
+        "projectPath": "D:\\Desktop\\euu\\-fullstack-challenge\\fullstack-challenge\\fullstack-challenge.domain\\fullstack-challenge.domain.csproj",
         "packagesPath": "C:\\Users\\luiz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luiz\\source\\repos\\fullstack-challenge\\fullstack-challenge.domain\\obj\\",
+        "outputPath": "D:\\Desktop\\euu\\-fullstack-challenge\\fullstack-challenge\\fullstack-challenge.domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -219,14 +219,14 @@
         }
       }
     },
-    "C:\\Users\\luiz\\source\\repos\\fullstack-challenge\\fullstack-challenge\\fullstack-challenge.csproj": {
+    "D:\\Desktop\\euu\\-fullstack-challenge\\fullstack-challenge\\fullstack-challenge\\fullstack-challenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luiz\\source\\repos\\fullstack-challenge\\fullstack-challenge\\fullstack-challenge.csproj",
+        "projectUniqueName": "D:\\Desktop\\euu\\-fullstack-challenge\\fullstack-challenge\\fullstack-challenge\\fullstack-challenge.csproj",
         "projectName": "fullstack-challenge",
-        "projectPath": "C:\\Users\\luiz\\source\\repos\\fullstack-challenge\\fullstack-challenge\\fullstack-challenge.csproj",
+        "projectPath": "D:\\Desktop\\euu\\-fullstack-challenge\\fullstack-challenge\\fullstack-challenge\\fullstack-challenge.csproj",
         "packagesPath": "C:\\Users\\luiz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luiz\\source\\repos\\fullstack-challenge\\fullstack-challenge\\obj\\",
+        "outputPath": "D:\\Desktop\\euu\\-fullstack-challenge\\fullstack-challenge\\fullstack-challenge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -247,14 +247,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\luiz\\source\\repos\\fullstack-challenge\\fullstack-challeng.data\\fullstack-challeng.data.csproj": {
-                "projectPath": "C:\\Users\\luiz\\source\\repos\\fullstack-challenge\\fullstack-challeng.data\\fullstack-challeng.data.csproj"
+              "D:\\Desktop\\euu\\-fullstack-challenge\\fullstack-challenge\\fullstack-challeng.data\\fullstack-challeng.data.csproj": {
+                "projectPath": "D:\\Desktop\\euu\\-fullstack-challenge\\fullstack-challenge\\fullstack-challeng.data\\fullstack-challeng.data.csproj"
               },
-              "C:\\Users\\luiz\\source\\repos\\fullstack-challenge\\fullstack-challeng.service\\fullstack-challeng.service.csproj": {
-                "projectPath": "C:\\Users\\luiz\\source\\repos\\fullstack-challenge\\fullstack-challeng.service\\fullstack-challeng.service.csproj"
+              "D:\\Desktop\\euu\\-fullstack-challenge\\fullstack-challenge\\fullstack-challeng.service\\fullstack-challeng.service.csproj": {
+                "projectPath": "D:\\Desktop\\euu\\-fullstack-challenge\\fullstack-challenge\\fullstack-challeng.service\\fullstack-challeng.service.csproj"
               },
-              "C:\\Users\\luiz\\source\\repos\\fullstack-challenge\\fullstack-challenge.domain\\fullstack-challenge.domain.csproj": {
-                "projectPath": "C:\\Users\\luiz\\source\\repos\\fullstack-challenge\\fullstack-challenge.domain\\fullstack-challenge.domain.csproj"
+              "D:\\Desktop\\euu\\-fullstack-challenge\\fullstack-challenge\\fullstack-challenge.domain\\fullstack-challenge.domain.csproj": {
+                "projectPath": "D:\\Desktop\\euu\\-fullstack-challenge\\fullstack-challenge\\fullstack-challenge.domain\\fullstack-challenge.domain.csproj"
               }
             }
           }

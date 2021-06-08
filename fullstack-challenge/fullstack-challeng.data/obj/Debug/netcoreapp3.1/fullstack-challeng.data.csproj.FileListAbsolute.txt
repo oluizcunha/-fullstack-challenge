@@ -1,0 +1,15 @@
+D:\Desktop\euu\-fullstack-challenge\fullstack-challenge\fullstack-challeng.data\bin\Debug\netcoreapp3.1\fullstack-challeng.data.deps.json
+D:\Desktop\euu\-fullstack-challenge\fullstack-challenge\fullstack-challeng.data\bin\Debug\netcoreapp3.1\fullstack-challeng.data.runtimeconfig.json
+D:\Desktop\euu\-fullstack-challenge\fullstack-challenge\fullstack-challeng.data\bin\Debug\netcoreapp3.1\fullstack-challeng.data.runtimeconfig.dev.json
+D:\Desktop\euu\-fullstack-challenge\fullstack-challenge\fullstack-challeng.data\bin\Debug\netcoreapp3.1\fullstack-challeng.data.dll
+D:\Desktop\euu\-fullstack-challenge\fullstack-challenge\fullstack-challeng.data\bin\Debug\netcoreapp3.1\fullstack-challeng.data.pdb
+D:\Desktop\euu\-fullstack-challenge\fullstack-challenge\fullstack-challeng.data\bin\Debug\netcoreapp3.1\fullstack-challenge.domain.dll
+D:\Desktop\euu\-fullstack-challenge\fullstack-challenge\fullstack-challeng.data\bin\Debug\netcoreapp3.1\fullstack-challenge.domain.pdb
+D:\Desktop\euu\-fullstack-challenge\fullstack-challenge\fullstack-challeng.data\obj\Debug\netcoreapp3.1\fullstack-challeng.data.csprojAssemblyReference.cache
+D:\Desktop\euu\-fullstack-challenge\fullstack-challenge\fullstack-challeng.data\obj\Debug\netcoreapp3.1\fullstack-challeng.data.AssemblyInfoInputs.cache
+D:\Desktop\euu\-fullstack-challenge\fullstack-challenge\fullstack-challeng.data\obj\Debug\netcoreapp3.1\fullstack-challeng.data.AssemblyInfo.cs
+D:\Desktop\euu\-fullstack-challenge\fullstack-challenge\fullstack-challeng.data\obj\Debug\netcoreapp3.1\fullstack-challeng.data.csproj.CoreCompileInputs.cache
+D:\Desktop\euu\-fullstack-challenge\fullstack-challenge\fullstack-challeng.data\obj\Debug\netcoreapp3.1\fullstack-challeng.data.csproj.CopyComplete
+D:\Desktop\euu\-fullstack-challenge\fullstack-challenge\fullstack-challeng.data\obj\Debug\netcoreapp3.1\fullstack-challeng.data.dll
+D:\Desktop\euu\-fullstack-challenge\fullstack-challenge\fullstack-challeng.data\obj\Debug\netcoreapp3.1\fullstack-challeng.data.pdb
+D:\Desktop\euu\-fullstack-challenge\fullstack-challenge\fullstack-challeng.data\obj\Debug\netcoreapp3.1\fullstack-challeng.data.genruntimeconfig.cache

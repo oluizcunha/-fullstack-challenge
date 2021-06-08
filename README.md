@@ -48,7 +48,7 @@ appsettings.json
 2) Sete fullstack-challenge como projeto de inicialização;
 
 
-3) Vá ao console de gerenciamento de pacotes altere para o projeto fullstack-challenge.data 
+3) Vá ao console de gerenciamento de pacotes, altere para o projeto fullstack-challenge.data 
 e rode o comando:
 ```sh
 update-database

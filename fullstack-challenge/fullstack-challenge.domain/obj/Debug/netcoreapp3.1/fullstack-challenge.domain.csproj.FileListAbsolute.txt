@@ -1,0 +1,8 @@
+D:\Desktop\euu\-fullstack-challenge\fullstack-challenge\fullstack-challenge.domain\bin\Debug\netcoreapp3.1\fullstack-challenge.domain.deps.json
+D:\Desktop\euu\-fullstack-challenge\fullstack-challenge\fullstack-challenge.domain\bin\Debug\netcoreapp3.1\fullstack-challenge.domain.dll
+D:\Desktop\euu\-fullstack-challenge\fullstack-challenge\fullstack-challenge.domain\bin\Debug\netcoreapp3.1\fullstack-challenge.domain.pdb
+D:\Desktop\euu\-fullstack-challenge\fullstack-challenge\fullstack-challenge.domain\obj\Debug\netcoreapp3.1\fullstack-challenge.domain.AssemblyInfoInputs.cache
+D:\Desktop\euu\-fullstack-challenge\fullstack-challenge\fullstack-challenge.domain\obj\Debug\netcoreapp3.1\fullstack-challenge.domain.AssemblyInfo.cs
+D:\Desktop\euu\-fullstack-challenge\fullstack-challenge\fullstack-challenge.domain\obj\Debug\netcoreapp3.1\fullstack-challenge.domain.csproj.CoreCompileInputs.cache
+D:\Desktop\euu\-fullstack-challenge\fullstack-challenge\fullstack-challenge.domain\obj\Debug\netcoreapp3.1\fullstack-challenge.domain.dll
+D:\Desktop\euu\-fullstack-challenge\fullstack-challenge\fullstack-challenge.domain\obj\Debug\netcoreapp3.1\fullstack-challenge.domain.pdb

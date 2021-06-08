@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luiz\\source\\repos\\fullstack-challenge\\fullstack-challenge.domain\\fullstack-challenge.domain.csproj",
+      "projectUniqueName": "D:\\Desktop\\euu\\-fullstack-challenge\\fullstack-challenge\\fullstack-challenge.domain\\fullstack-challenge.domain.csproj",
       "projectName": "fullstack-challenge.domain",
-      "projectPath": "C:\\Users\\luiz\\source\\repos\\fullstack-challenge\\fullstack-challenge.domain\\fullstack-challenge.domain.csproj",
+      "projectPath": "D:\\Desktop\\euu\\-fullstack-challenge\\fullstack-challenge\\fullstack-challenge.domain\\fullstack-challenge.domain.csproj",
       "packagesPath": "C:\\Users\\luiz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luiz\\source\\repos\\fullstack-challenge\\fullstack-challenge.domain\\obj\\",
+      "outputPath": "D:\\Desktop\\euu\\-fullstack-challenge\\fullstack-challenge\\fullstack-challenge.domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
