@@ -16,7 +16,7 @@ O projeto foi desenvolvido com tecnologias de ponta, sendo elas:
 
 ## Execução
 
-### Backend
+### FrontEnd
 Requerido [Node.js](https://nodejs.org/) v14 para rodar.
 1) Entre na pasta do front-end dentro do repositorio
 ```sh
@@ -36,7 +36,7 @@ npm start
 [localhost:8001](https://localhost:8001/)
 
 
-### Backend
+### BackEnd
 Requerido [DotNetCore](https://dotnet.microsoft.com/download/dotnet/5.0) v5 para rodar.
 Backend foi desenvolvido no Visual Studio 2019 Community Edition.
 
